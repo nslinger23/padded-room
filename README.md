@@ -1,4 +1,4 @@
-# added-room
+# padded-room
 GAME OF THRONES QUOTES API
 
 First real coding project, first time using flask and first time writting an API. THIS IS FOR MY ENJOYMENT AND LEARNING.
